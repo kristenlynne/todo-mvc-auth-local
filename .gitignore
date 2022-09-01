@@ -1,6 +1,4 @@
 node_modules
-<<<<<<< HEAD
-.env
-=======
 .vscode/*
->>>>>>> a3a29ca23dce56d9960ea931647e865151edf87f
+.env
+.DS_Store
